@@ -7,7 +7,7 @@ bio: My research interests include Empirical asset pricing, Portfolio
 interests:
   - Empirical asset pricing
   - Portfolio Management
-  - and Market Anomalies
+  - Market Anomalies
 social:
   - icon: envelope
     icon_pack: fas
