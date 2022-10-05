@@ -7,19 +7,19 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Research
-    url: '#research'
-    weight: 20
-  - name: CV
-    url: uploads/CV_Dijun.pdf
-    weight: 30
-  - name: Teaching
-    url: '#teaching'
-    weight: 40
-  - name: Data & Code
-    url:  '#data-code'
-    weight: 50
-  - name: References
-    url: '#references'
-    weight: 60
+#   - name: Research
+#     url: '#research'
+#     weight: 20
+#   - name: CV
+#     url: uploads/CV_Dijun.pdf
+#     weight: 30
+#   - name: Teaching
+#     url: '#teaching'
+#     weight: 40
+#   - name: Data & Code
+#     url:  '#data-code'
+#     weight: 50
+#   - name: References
+#     url: '#references'
+#     weight: 60
   
