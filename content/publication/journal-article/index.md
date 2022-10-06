@@ -1,76 +1,35 @@
 ---
-title: "An example journal article"
-authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
-
-# Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Source Themes
-featured: false
-
-# links:
-# - name: ""
-#   url: ""
+abstract: ""
+slides: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+publication_types:
+  - "3"
+authors:
+  - admin
+author_notes: []
+publication: ""
+summary: We study the different methods of estimating firm-level intangible
+  capital and its effects on improving the value strategy.
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
+url_video: ""
+title: Working Paper
+subtitle: Intangible Capital and the Value-Growth Anomaly
+doi: ""
+featured: false
+tags: []
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+  filename: null
+date: 2022-10-06T04:43:27.885Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Abs: In this chapter, I study the variation of the book-to-market (B/M) ratio across firms and over time. The B/M ratio, a firm characteristic defined as the book value over the market value of equity, plays an important role in finance theory and practice. In this chapter, I first replicate and extend the Chapter of “Value Premium” in  Bali, Engle, and Murray (2016). Second, recent work debates on whether the B/M ratio should also account for intangible capital. I estimate three versions of internally generated intangible capital, use it to adjust B/M ratio and confirm that including intangible capital does improve the performance of value strategy. One of the contributions of this paper is to compare methods to estimate intangibles. The long-short value premium and the cumulative return of HML factor favor bm<sup>Eisfeldt</sup> compared with bm<sup>Peters</sup> and bm<sup>Ewens</sup>. Nevertheless, none of them can expand the mean-variance frontier spanned by four other factors, and they all experience persistent drawdowns in recent decades. Third, to delve into the time-series and cross-sectional behavior of B/M ratio and its associated value premium, I conduct two sub-sample analyses: pre- or post-1999 analysis and high tech sector or not analysis. The pre- or post-1999 analysis indicates that the positive relation between all the four versions of B/M and future stock returns is much weaker post-1999. High tech sector or not analysis does not corroborate the argument that the death of value strategy is caused by the conservative accounting biases in book value. The selection of a better estimation method for intangibles is hampered as it changes across contexts. Last, I show that instead of using intangible capital to adjust book value, leveraging the ratio of intangible capital over market value can deliver HML factors which feature much higher cumulative returns and smaller drawdowns in recent decades. The drawdowns of HML factors are closely associated with the change of relative valuation.
