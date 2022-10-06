@@ -25,7 +25,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/dijun-liu-a96840125/
 organizations:
-  - name: UAB
+  - name: Universitat Autònoma de Barcelona
     url: https://www.uab.cat/
 education:
   courses:
