@@ -20,7 +20,7 @@ main:
   - name: References
     url: 'references/'
     weight: 60
-  - name: Projects
-    url: '#projects'
-    weight: 70
+#   - name: Projects
+#     url: '#projects'
+#     weight: 70
   
