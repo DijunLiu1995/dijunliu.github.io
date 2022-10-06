@@ -3,6 +3,7 @@ title: Research
 cms_exclude: true
 date: '2022-10-06T00:00:00+01:00'
 weight: 2
+classes: wide
 view: 2
 ---
 
