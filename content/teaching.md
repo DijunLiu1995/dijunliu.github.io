@@ -10,6 +10,9 @@ view: 1
 #   3 = Card
 #   4 = Citation
 view: 4
+design:
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '1'
 ---
 
 - Microeconomics II, (UAB, Masters)   
