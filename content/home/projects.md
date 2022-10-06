@@ -12,10 +12,10 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Deep Learning
+    - name: Deep learning
       tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Working paper
+      tag: Working paper
 design:
   columns: "1"
   view: showcase
