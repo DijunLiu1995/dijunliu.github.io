@@ -5,7 +5,7 @@
 
 main:
   - name: Home
-    url: 'Authors/'
+    url: '#about'
     weight: 10
   - name: Research
     url: '#research'
