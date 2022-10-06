@@ -12,17 +12,17 @@ view: 2
 ---
 
 
-## **[Abhay Abhyankar (supervisor)](https://bse.eu/people/abhyankar-abhay)**
-Professor of Finance
-MOVE, UAB and BSE
+## [Abhay Abhyankar (supervisor)](https://bse.eu/people/abhyankar-abhay)     
+Professor of Finance    
+MOVE, UAB and BSE    
 [abyanka@gmail.com](mailto:abyanka@gmail.com)
 
-## **[Michael Creel (tutor)](http://pareto.uab.es/mcreel/)**
-Professor of Economics
-Department of Economics and Economic History, UAB
+## [Michael Creel (tutor)](http://pareto.uab.es/mcreel/)     
+Professor of Economics     
+Department of Economics and Economic History, UAB     
 [michael.creel@uab.es](mailto:michael.creel@uab.es)
 
-## **[Jordi Caballé](http://pareto.uab.es/jcaballe/)**
-Professor of Economics
-MOVE, CODE, UAB and BSE
+## [Jordi Caballé](http://pareto.uab.es/jcaballe/)   
+Professor of Economics   
+MOVE, CODE, UAB and BSE    
 [jordi.caballe@uab.es](mailto:jordi.caballe@uab.es)
