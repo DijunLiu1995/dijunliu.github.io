@@ -19,10 +19,10 @@ MOVE, UAB and BSE
 
 ## [Michael Creel (tutor)](http://pareto.uab.es/mcreel/)     
 Professor of Economics     
-Department of Economics and Economic History, UAB     
+UAB and BSE     
 [michael.creel@uab.es](mailto:michael.creel@uab.es)
 
 ## [Jordi Caballé](http://pareto.uab.es/jcaballe/)   
 Professor of Economics   
-MOVE, CODE, UAB and BSE    
+UAB and BSE   
 [jordi.caballe@uab.es](mailto:jordi.caballe@uab.es)
