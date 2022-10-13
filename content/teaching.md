@@ -15,14 +15,20 @@ design:
   columns: '1'
 ---
 
-- Microeconomics II, (UAB, Masters)   
+- [Microeconomics II](https://drive.google.com/file/d/1mfUapLtsNYOYF05Q1ARvfnQg-C-EQwZw/view) (Master IDEA, UAB)   
   TA for Prof. Ramon Caminal   
   Fall 2021
   
-- Probability and Statistics, (UAB, Masters)     
-  TA for Prof. Jordi Caballe     
-  Fall 2019,2020,2021
+- [Probability and Statistics](https://drive.google.com/file/d/1jOAgilCj_SNlf5MmDuZpGTiIED5NlbLR/view) (Master IDEA, UAB)     
+  TA for Prof. Jordi Caballé   
+  Fall 2019, 2020, 2021
   
-- Macroeconomics, (ZUEL, undergraduate)  
-  TA for A/Prof. Yin Chu     
+- Macroeconomics (Undergraduate, ZUEL)  
+  TA for Prof. Yin Chu     
   Fall 2016
+  <br/>
+  <br/>
+  
+  <font size=3>*Teaching evaluations are available upon request.*</font>
+
+
