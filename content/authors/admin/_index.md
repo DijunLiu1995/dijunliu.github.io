@@ -7,9 +7,6 @@ interests:
   - Empirical Asset Pricing
   - Market Anomalies
 social:
-  - icon: envelop
-    icon_pack: far
-    link: "mailto: dijun.liu@autonoma.cat"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/LiuDijun
