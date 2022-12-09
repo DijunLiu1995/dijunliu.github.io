@@ -8,8 +8,8 @@ view: 2
 ---
 
 
-## **Job Market Paper**
-To be filled
+## **[What drives behavioral or mispricing-based factors](https://github.com/DijunLiu1995/dijunliu.github.io/blob/main/static/uploads/whatdrivesfactor.pdf)(Job Market Paper)**
+<font size=4>Factor models are important to explain returns and to calculate the required rate of return. We analyze the risk associated with the outstanding mispricing factors proposed recently that outperform other factor models in explaining a broad range of return anomalies. Present variance decomposition suggests that cash flow news is the main driver for all of these factors and their mean-variance efficient portfolios. The explanatory power of these factors stems from the ability of their cash flow news to explain anomalies' unexpected return news. The beta analysis also indicates that the cross-sectional variation of market beta comes from the variation in cash flow components of beta.</font>
 
 ## **Working papers**
 
