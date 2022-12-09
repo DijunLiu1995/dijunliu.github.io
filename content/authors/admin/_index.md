@@ -43,7 +43,7 @@ email: ""
 ---
 I am a Ph.D. candidate in Economics in [IDEA Graduate Program](https://www.uabidea.eu/) at [Universitat Autònoma de Barcelona](https://www.uabufae.eu/) and [Barcelona School of Economics](https://bse.eu/).
 
-In my job market paper, I use the present value decomposition to explore the main driver of mispricing factors proposed by Daniel, Hirshleifer, and Sun (2020),  Stambaugh and Yuan (2017), and of the anomalies which are used to construct these factors. 
+In my [job market paper](https://github.com/DijunLiu1995/dijunliu.github.io/blob/main/static/uploads/whatdrivesfactor.pdf), I use the present value decomposition to explore the main driver of mispricing factors proposed by Daniel, Hirshleifer, and Sun (2020),  Stambaugh and Yuan (2017), and of the anomalies which are used to construct these factors. 
 
 I am on the 2022-23 job market and available for interviews.
 
